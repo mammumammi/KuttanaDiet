@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DietPlannerWebsite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+344a4410379f6151ab1f8850680e789a27eff2b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("DietPlannerWebsite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DietPlannerWebsite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

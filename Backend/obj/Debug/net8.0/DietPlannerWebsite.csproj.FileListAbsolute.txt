@@ -268,3 +268,4 @@
 /Users/mammu/CodeWorks/WebDevelopmentprojects/DietPlannerWebsite/Backend/obj/Debug/net8.0/DietPlannerWebsite.pdb
 /Users/mammu/CodeWorks/WebDevelopmentprojects/DietPlannerWebsite/Backend/obj/Debug/net8.0/DietPlannerWebsite.genruntimeconfig.cache
 /Users/mammu/CodeWorks/WebDevelopmentprojects/DietPlannerWebsite/Backend/obj/Debug/net8.0/ref/DietPlannerWebsite.dll
+/Users/mammu/CodeWorks/WebDevelopmentprojects/DietPlannerWebsite/Backend/obj/Debug/net8.0/DietPlannerWebsite.sourcelink.json
